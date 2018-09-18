@@ -158,6 +158,9 @@ public class Crawl{
 		case "Python":
 			exe = ".py";
 			break;
+		case "Python2":
+			exe = ".py";
+			break;
 		case "Python3":
 			exe = ".py";
 			break;
