@@ -34,6 +34,6 @@
 2. 자신이 해결한 문제의 소스코드와 문제 명세를 크롤링해서 각 폴더에 출력합니다.
 
 
-제작 : jcdgods@gmail.com, [블로그](http://jcdgods.tistory.com/)
+제작 : jcdgods@gmail.com
 
 비상업용, 무료, 출처표기, 발생하는 모든 책임은 사용자에게 있음.
